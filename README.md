@@ -8,8 +8,13 @@ The project creates both account-level static data and monthly time-series panel
 Key features include:
 
   Synthetic generation of customer demographics, income, FICO/Vantage scores, tradeline and debt profiles
+  
   Credit product modeling (GPCC, PLCC, Installment products, APR, limits, channels)
+  
   Behavioral simulation of spending, utilization, payment behavior, and delinquency transitions
+  
   Dynamic monthly portfolio simulation with DPD migration, charge-off logic, fees, and interest accrual
+  
   Financial analytics including ANR, CNR, NCL, P&L, cost of funds, and portfolio profitability metrics
+  
   Risk analytics such as Markov roll-rate modeling, behavioral segmentation, vintage/origination analysis, and portfolio visualization dashboards.
